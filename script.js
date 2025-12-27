@@ -1,4 +1,4 @@
-const SHEET_ID = "1Z9WOaTbtrk54xzYZxjo_gdP2Xbf7AsWZuThs49vi53k";
+const SHEET_ID = 1Z9WOaTbtrk54xzYZxjo_gdP2Xbf7AsWZuThs49vi53k;
 const SHEET_NAME = "Sheet1";
 
 let allProducts = [];
